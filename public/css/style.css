@@ -2393,12 +2393,12 @@ h6 {
   margin-bottom: 40px; }
 .personal_text .basic_info li {
   margin-bottom: 15px; }
-  .personal_text .basic_info li a {
+  .personal_text .basic_info li span {
     position: relative;
     padding-left: 40px;
     font-size: 16px;
     color: #777777; }
-    .personal_text .basic_info li a i {
+    .personal_text .basic_info li span i {
       position: absolute;
       left: 0px;
       top: 50%;
@@ -2628,7 +2628,7 @@ h6 {
   display: inline-block; }
   .social_widget .list li a {
     color: #cccccc;
-    font-size: 14px;
+    font-size: 18px;
     transition: all 300ms linear 0s; }
   .social_widget .list li:last-child {
     margin-right: 0px; }
